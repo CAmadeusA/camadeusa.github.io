@@ -116,7 +116,8 @@ a {
                 background-color: #00c1fa; }
             #mainContainer #mainContentBlock #mainContent #introBox #linkBox li a .description {
               display: none;
-              font-size: 0.8em; }
+              font-size: 0.8em;
+              align-content: center; }
             #mainContainer #mainContentBlock #mainContent #introBox #linkBox li.featured {
               border: 1px solid #00ade0;
               padding-right: 15px;
